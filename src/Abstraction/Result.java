@@ -8,6 +8,7 @@ public class Result {//ulc
 		ref.m1();
 		ref.m2();
 		ref.m3();
+		system.out.println("hii iam from gitup");
 	}
 
 }
